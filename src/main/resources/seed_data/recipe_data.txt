@@ -1,0 +1,98 @@
+1|Veg|Mehfil|Veg_Mehfil_Biryani|76|Veg_Mehfil_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+2|Veg|Mehfil|Veg_Mehfil_Chicken|17|Veg_Mehfil_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+3|Veg|Mehfil|Veg_Mehfil_Pizza|29|Veg_Mehfil_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+4|Veg|Mehfil|Veg_Mehfil_Paneer|24|Veg_Mehfil_Paneer.jpg|https://static.toiimg.com/thumb/53251884.cms?imgsize=530171&width=800&height=800
+5|Veg|Mehfil|Veg_Mehfil_Burger|75|Veg_Mehfil_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+6|Veg|Mehfil|Veg_Mehfil_Cake|46|Veg_Mehfil_Cake.jpg|https://5.imimg.com/data5/NI/IH/QU/ANDROID-90366522/img-20190619-153251-jpg-500x500.jpg
+7|Veg|Mehfil|Veg_Mehfil_Dosa|79|Veg_Mehfil_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+8|Veg|Pista House|Veg_Pista House_Biryani|74|Veg_Pista House_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+9|Veg|Pista House|Veg_Pista House_Chicken|77|Veg_Pista House_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+10|Veg|Pista House|Veg_Pista House_Pizza|66|Veg_Pista House_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+11|Veg|Pista House|Veg_Pista House_Paneer|72|Veg_Pista House_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+12|Veg|Pista House|Veg_Pista House_Burger|15|Veg_Pista House_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+13|Veg|Pista House|Veg_Pista House_Cake|71|Veg_Pista House_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+14|Veg|Pista House|Veg_Pista House_Dosa|82|Veg_Pista House_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+15|Veg|Shah Ghouse|Veg_Shah Ghouse_Biryani|45|Veg_Shah Ghouse_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+16|Veg|Shah Ghouse|Veg_Shah Ghouse_Chicken|42|Veg_Shah Ghouse_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+17|Veg|Shah Ghouse|Veg_Shah Ghouse_Pizza|50|Veg_Shah Ghouse_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+18|Veg|Shah Ghouse|Veg_Shah Ghouse_Paneer|16|Veg_Shah Ghouse_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+19|Veg|Shah Ghouse|Veg_Shah Ghouse_Burger|25|Veg_Shah Ghouse_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+20|Veg|Shah Ghouse|Veg_Shah Ghouse_Cake|79|Veg_Shah Ghouse_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+21|Veg|Shah Ghouse|Veg_Shah Ghouse_Dosa|61|Veg_Shah Ghouse_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+22|Veg|Creamstone|Veg_Creamstone_Biryani|96|Veg_Creamstone_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+23|Veg|Creamstone|Veg_Creamstone_Chicken|68|Veg_Creamstone_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+24|Veg|Creamstone|Veg_Creamstone_Pizza|88|Veg_Creamstone_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+25|Veg|Creamstone|Veg_Creamstone_Paneer|78|Veg_Creamstone_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+26|Veg|Creamstone|Veg_Creamstone_Burger|91|Veg_Creamstone_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+27|Veg|Creamstone|Veg_Creamstone_Cake|29|Veg_Creamstone_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+28|Veg|Creamstone|Veg_Creamstone_Dosa|76|Veg_Creamstone_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+29|Veg|Burger King|Veg_Burger King_Biryani|86|Veg_Burger King_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+30|Veg|Burger King|Veg_Burger King_Chicken|50|Veg_Burger King_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+31|Veg|Burger King|Veg_Burger King_Pizza|13|Veg_Burger King_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+32|Veg|Burger King|Veg_Burger King_Paneer|32|Veg_Burger King_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+33|Veg|Burger King|Veg_Burger King_Burger|90|Veg_Burger King_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+34|Veg|Burger King|Veg_Burger King_Cake|63|Veg_Burger King_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+35|Veg|Burger King|Veg_Burger King_Dosa|17|Veg_Burger King_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+36|Veg|KFC|Veg_KFC_Biryani|67|Veg_KFC_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+37|Veg|KFC|Veg_KFC_Chicken|49|Veg_KFC_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+38|Veg|KFC|Veg_KFC_Pizza|21|Veg_KFC_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+39|Veg|KFC|Veg_KFC_Paneer|26|Veg_KFC_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+40|Veg|KFC|Veg_KFC_Burger|92|Veg_KFC_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+41|Veg|KFC|Veg_KFC_Cake|27|Veg_KFC_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+42|Veg|KFC|Veg_KFC_Dosa|12|Veg_KFC_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+43|Veg|Cake Zone|Veg_Cake Zone_Biryani|28|Veg_Cake Zone_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+44|Veg|Cake Zone|Veg_Cake Zone_Chicken|27|Veg_Cake Zone_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+45|Veg|Cake Zone|Veg_Cake Zone_Pizza|92|Veg_Cake Zone_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+46|Veg|Cake Zone|Veg_Cake Zone_Paneer|24|Veg_Cake Zone_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+47|Veg|Cake Zone|Veg_Cake Zone_Burger|37|Veg_Cake Zone_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+48|Veg|Cake Zone|Veg_Cake Zone_Cake|52|Veg_Cake Zone_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+49|Veg|Cake Zone|Veg_Cake Zone_Dosa|74|Veg_Cake Zone_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+50|Non-Veg|Mehfil|Non-Veg_Mehfil_Biryani|77|Non-Veg_Mehfil_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+51|Non-Veg|Mehfil|Non-Veg_Mehfil_Chicken|87|Non-Veg_Mehfil_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+52|Non-Veg|Mehfil|Non-Veg_Mehfil_Pizza|87|Non-Veg_Mehfil_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+53|Non-Veg|Mehfil|Non-Veg_Mehfil_Paneer|58|Non-Veg_Mehfil_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+54|Non-Veg|Mehfil|Non-Veg_Mehfil_Burger|77|Non-Veg_Mehfil_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+55|Non-Veg|Mehfil|Non-Veg_Mehfil_Cake|27|Non-Veg_Mehfil_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+56|Non-Veg|Mehfil|Non-Veg_Mehfil_Dosa|52|Non-Veg_Mehfil_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+57|Non-Veg|Pista House|Non-Veg_Pista House_Biryani|75|Non-Veg_Pista House_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+58|Non-Veg|Pista House|Non-Veg_Pista House_Chicken|62|Non-Veg_Pista House_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+59|Non-Veg|Pista House|Non-Veg_Pista House_Pizza|81|Non-Veg_Pista House_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+60|Non-Veg|Pista House|Non-Veg_Pista House_Paneer|13|Non-Veg_Pista House_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+61|Non-Veg|Pista House|Non-Veg_Pista House_Burger|85|Non-Veg_Pista House_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+62|Non-Veg|Pista House|Non-Veg_Pista House_Cake|27|Non-Veg_Pista House_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+63|Non-Veg|Pista House|Non-Veg_Pista House_Dosa|89|Non-Veg_Pista House_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+64|Non-Veg|Shah Ghouse|Non-Veg_Shah Ghouse_Biryani|40|Non-Veg_Shah Ghouse_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+65|Non-Veg|Shah Ghouse|Non-Veg_Shah Ghouse_Chicken|49|Non-Veg_Shah Ghouse_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+66|Non-Veg|Shah Ghouse|Non-Veg_Shah Ghouse_Pizza|17|Non-Veg_Shah Ghouse_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+67|Non-Veg|Shah Ghouse|Non-Veg_Shah Ghouse_Paneer|21|Non-Veg_Shah Ghouse_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+68|Non-Veg|Shah Ghouse|Non-Veg_Shah Ghouse_Burger|31|Non-Veg_Shah Ghouse_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+69|Non-Veg|Shah Ghouse|Non-Veg_Shah Ghouse_Cake|28|Non-Veg_Shah Ghouse_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+70|Non-Veg|Shah Ghouse|Non-Veg_Shah Ghouse_Dosa|11|Non-Veg_Shah Ghouse_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+71|Non-Veg|Creamstone|Non-Veg_Creamstone_Biryani|24|Non-Veg_Creamstone_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+72|Non-Veg|Creamstone|Non-Veg_Creamstone_Chicken|85|Non-Veg_Creamstone_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+73|Non-Veg|Creamstone|Non-Veg_Creamstone_Pizza|43|Non-Veg_Creamstone_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+74|Non-Veg|Creamstone|Non-Veg_Creamstone_Paneer|94|Non-Veg_Creamstone_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+75|Non-Veg|Creamstone|Non-Veg_Creamstone_Burger|82|Non-Veg_Creamstone_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+76|Non-Veg|Creamstone|Non-Veg_Creamstone_Cake|33|Non-Veg_Creamstone_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+77|Non-Veg|Creamstone|Non-Veg_Creamstone_Dosa|27|Non-Veg_Creamstone_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+78|Non-Veg|Burger King|Non-Veg_Burger King_Biryani|35|Non-Veg_Burger King_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+79|Non-Veg|Burger King|Non-Veg_Burger King_Chicken|52|Non-Veg_Burger King_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+80|Non-Veg|Burger King|Non-Veg_Burger King_Pizza|58|Non-Veg_Burger King_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+81|Non-Veg|Burger King|Non-Veg_Burger King_Paneer|74|Non-Veg_Burger King_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+82|Non-Veg|Burger King|Non-Veg_Burger King_Burger|22|Non-Veg_Burger King_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+83|Non-Veg|Burger King|Non-Veg_Burger King_Cake|41|Non-Veg_Burger King_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+84|Non-Veg|Burger King|Non-Veg_Burger King_Dosa|25|Non-Veg_Burger King_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+85|Non-Veg|KFC|Non-Veg_KFC_Biryani|82|Non-Veg_KFC_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+86|Non-Veg|KFC|Non-Veg_KFC_Chicken|64|Non-Veg_KFC_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+87|Non-Veg|KFC|Non-Veg_KFC_Pizza|84|Non-Veg_KFC_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+88|Non-Veg|KFC|Non-Veg_KFC_Paneer|67|Non-Veg_KFC_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+89|Non-Veg|KFC|Non-Veg_KFC_Burger|91|Non-Veg_KFC_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+90|Non-Veg|KFC|Non-Veg_KFC_Cake|37|Non-Veg_KFC_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+91|Non-Veg|KFC|Non-Veg_KFC_Dosa|18|Non-Veg_KFC_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg
+92|Non-Veg|Cake Zone|Non-Veg_Cake Zone_Biryani|35|Non-Veg_Cake Zone_Biryani.jpg|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg
+93|Non-Veg|Cake Zone|Non-Veg_Cake Zone_Chicken|33|Non-Veg_Cake Zone_Chicken.jpg|https://upload.wikimedia.org/wikipedia/commons/5/57/Chickens_in_market.jpg
+94|Non-Veg|Cake Zone|Non-Veg_Cake Zone_Pizza|17|Non-Veg_Cake Zone_Pizza.jpg|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1.00xw:1.00xh;0,0&resize=480:*
+95|Non-Veg|Cake Zone|Non-Veg_Cake Zone_Paneer|49|Non-Veg_Cake Zone_Paneer.jpg|https://www.eitanbernath.com/wp-content/uploads/2020/05/Butter-Paneer-1-4x5-LOW-RES.jpeg
+96|Non-Veg|Cake Zone|Non-Veg_Cake Zone_Burger|77|Non-Veg_Cake Zone_Burger.jpg|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p.jpg
+97|Non-Veg|Cake Zone|Non-Veg_Cake Zone_Cake|17|Non-Veg_Cake Zone_Cake.jpg|https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/16714-birthday-cake-600x600.jpg?ext=.jpg
+98|Non-Veg|Cake Zone|Non-Veg_Cake Zone_Dosa|55|Non-Veg_Cake Zone_Dosa.jpg|https://pipingpotcurry.com/wp-content/uploads/2020/11/Dosa-recipe-plain-sada-dosa-Piping-Pot-Curry.jpg

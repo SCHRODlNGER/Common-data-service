@@ -1,0 +1,7 @@
+Website/brands/b1.png|https://b.zmtcdn.com/data/brand_creatives/logos/85b28733a8b2a12940a536859928ec03_1599801040.png|Mehfil
+Website/brands/b2.png|https://b.zmtcdn.com/data/brand_creatives/logos/7e899e9cb047066beb5a5aea63f34911_1599548498.png|Pista House
+Website/brands/b3.png|https://b.zmtcdn.com/data/brand_creatives/logos/fd4c0122730319cdd4e604e8accfd331_1599195180.png|Shah Ghouse
+Website/brands/b4.png|https://b.zmtcdn.com/data/brand_creatives/logos/043c5ef2ce8ba984e86130c5310fed8c_1611251907.png|Creamstone
+Website/brands/b5.jpg|https://b.zmtcdn.com/data/brand_creatives/logos/6a11fd0f30c9fd9ceaff2f5b21f61d23_1617187971.png|Burger King
+Website/brands/b6.png|https://b.zmtcdn.com/data/brand_creatives/logos/466f8fc74274145f3b21795c3d21816d_1589433071.png|KFC
+Website/brands/b7.png|https://b.zmtcdn.com/data/dish_photos/b18/83ed1ede4e78e6b7062dd8a667cfcb18.jpg|Cake Zone
